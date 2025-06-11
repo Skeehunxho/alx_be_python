@@ -42,3 +42,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# This code implements a simple shopping list manager that allows users to add, remove, and view items in their shopping list.
